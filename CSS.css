@@ -1,0 +1,48 @@
+* {
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+  }
+
+  body {
+    background-color: bisque;
+    margin: 5%;
+    padding: 20%;
+  }
+
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+
+  p {
+    border-radius: 5px;
+    border: 1px solid green;
+  }
+
+  h2 #tanteo {
+    text-decoration: underline;
+  }
+
+  ol li {
+    text-decoration: overline;
+  }
+
+  h3 {
+    color: aquamarine;
+    border-radius: 10%;
+    border: 1px solid saddlebrown;
+  }
+
+  p strong {
+    color: brown;
+  }
+
+  .long {
+    background-color: yellowgreen;
+  }
+
+  img {
+    border-radius: 25%;
+    width: 100%;
+  }
